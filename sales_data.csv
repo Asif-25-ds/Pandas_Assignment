@@ -1,0 +1,21 @@
+,Product,Category,Units_Sold,Revenue
+0,Laptop,Electronics,100,100000
+1,Smartphone,Electronics,200,80000
+2,TV,Electronics,50,50000
+3,T-shirt,Apparel,300,6000
+4,Jeans,Apparel,150,7500
+5,Sneakers,Apparel,200,10000
+6,Book,Books,500,7500
+7,Headphones,Electronics,150,15000
+8,Earbuds,Electronics,100,8000
+9,Watch,Accessories,80,12000
+10,Sunglasses,Accessories,120,18000
+11,Backpack,Accessories,150,9000
+12,Desk,Office Supplies,60,24000
+13,Chair,Office Supplies,80,20000
+14,Pen,Office Supplies,500,5000
+15,Notebook,Office Supplies,300,6000
+16,Bicycle,Sports & Outdoors,40,40000
+17,Tennis Racket,Sports & Outdoors,60,9000
+18,Running Shoes,Sports & Outdoors,200,18000
+19,Basketball,Sports & Outdoors,100,8000
